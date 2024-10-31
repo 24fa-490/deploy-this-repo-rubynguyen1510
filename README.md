@@ -2,7 +2,7 @@
 
 ## uses 'postgres' npm package
 
-# running:
+# running: https://deploy-this-repo-rubynguyen1510-e0j3fi5yq.vercel.app
 
 1. git clone this
 
